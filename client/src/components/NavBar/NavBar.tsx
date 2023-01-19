@@ -33,13 +33,13 @@ export default function Navbar() {
         }>
         <ul>
           <li>
-            <a href="/home">Home</a>
+            <a href="/home">New Note</a>
           </li>
           <li>
-            <a href="/about">About</a>
+            <a href="/about">Profile</a>
           </li>
           <li>
-            <a href="/contact">Contact</a>
+            <a href="/contact">Log out</a>
           </li>
         </ul>
       </div>
